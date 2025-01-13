@@ -14,3 +14,7 @@ The **Indoor Sound Classifier** is designed to classify indoor sounds, particula
 - Classify and detect indoor accident sounds accurately.
 - Preserve privacy by using sound-based detection, particularly in sensitive areas like bathrooms.
 - Improve elderly safety with non-intrusive monitoring.
+
+---
+
+Please refer to the uploaded presentation for additional details.
